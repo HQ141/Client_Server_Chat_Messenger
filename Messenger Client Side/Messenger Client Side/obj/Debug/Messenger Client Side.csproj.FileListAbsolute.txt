@@ -1,0 +1,30 @@
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.csproj.AssemblyReference.cache
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\MainWindow.g.cs
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\App.g.cs
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side_MarkupCompile.cache
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side_MarkupCompile.lref
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\bin\Debug\Messenger Client Side.exe.config
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\bin\Debug\Messenger Client Side.exe
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\bin\Debug\Messenger Client Side.pdb
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\MainWindow.baml
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.g.resources
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger_Client_Side.Properties.Resources.resources
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.csproj.GenerateResource.cache
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.csproj.CoreCompileInputs.cache
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.exe
+C:\Users\HQ\source\repos\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.pdb
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\bin\Debug\Messenger Client Side.exe.config
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\bin\Debug\Messenger Client Side.exe
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\bin\Debug\Messenger Client Side.pdb
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.csproj.AssemblyReference.cache
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\MainWindow.g.cs
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\App.g.cs
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side_MarkupCompile.cache
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side_MarkupCompile.lref
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\MainWindow.baml
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.g.resources
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger_Client_Side.Properties.Resources.resources
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.csproj.GenerateResource.cache
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.csproj.CoreCompileInputs.cache
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.exe
+C:\Users\HQ\source\repos\Client_Server_Chat_messenger\Client_Server_Chat_Messenger\Messenger Client Side\Messenger Client Side\obj\Debug\Messenger Client Side.pdb
